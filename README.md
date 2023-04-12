@@ -1,2 +1,2 @@
 # peripress.github.io
-Main repo for the Periplus Collective's Anthologies
+This is the home for the Periplus Collective's Anthologies.
